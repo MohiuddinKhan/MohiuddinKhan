@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohiuddinKhan
 - 👀 I’m interested in front-end & back-end development, full stack development, Systems integration, ML & AI.
-- 🌱 I’m currently learning C# & Dot NET Framework.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Redux, Nodejs, Ruby, Ruby on Rails, Python etc.
 - 💞️ I’m looking to collaborate on C# related projects for beginers.
 - 📫 You can reach me through email makhan51451@gmail.com
 
